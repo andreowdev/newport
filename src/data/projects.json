@@ -1,26 +1,44 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Portifólio React.JS",
+    "imageSrc": "projects/project2.png",
+    "description": "Este é um projeto feito para aprender as linguagens mais usadas através de uma construção de aplicativo.",
+    "skills": ["React", "JSON", "CSS3"],
+    "demo": "https://andreowdev.github.io/newport/",
+    "source": "https://github.com/andreowdev/newport"
   },
   {
-    "title": "Project B",
+    "title": "ToDoList JavaScript",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Este é um projeto feito para aprender as linguagens mais usadas através de uma construção de aplicativo.",
+    "skills": ["HTML", "CSS3", "JAVASCRIPT"],
+    "demo": "https://andreowdev.github.io/to-doListt/",
+    "source": "https://github.com/andreowdev/to-doListt"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Buscador de CEP",
+    "imageSrc": "projects/project3.png",
+    "description": "Este é um projeto feito para aprender e praticar React.JS e consumo de APIs através de uma construção de aplicativo",
+    "skills": ["React", "CSS3", "API"],
+    "demo": "https://andreowdev.github.io/buscador-cep/",
+    "source": "https://github.com/andreowdev/buscador-cep/tree/main"
+  },
+  {
+    "title": "Cadastro de Produtos F/S",
+    "imageSrc": "projects/project4.png",
+    "description": "Este é um projeto feito para aplicar conhecimento sobre Front-End, Back-End, Banco de Dados e construção de uma API.",
+    "skills": ["React", "Express", "Node", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/andreowdev/cadastrodeprodutos"
+  },
+  {
+    "title": "Flappy-Game JS",
+    "imageSrc": "projects/project5.png",
+    "description": "Este é um projeto feito para aplicar e treinar conhecimento em JavaScript puro.",
+    "skills": ["JavaScript", "HTML", "CSS3"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
+  
+  
 ]
